@@ -15,7 +15,7 @@ namespace bend_automation
     {
         private static int blueColorIndex = 5;
         private static int greenColorIndex = 3;
-        private static double pipeRadius = 100;
+        private static double pipeRadius = 110;
         private static double bendAngle = 90;
 
         enum Direction
